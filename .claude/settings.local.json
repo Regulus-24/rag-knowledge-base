@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(C:\\\\Users\\\\23050\\\\Desktop\\\\Python\\\\3.10.11\\\\python.exe *)",
+      "Bash(\"C:\\\\Users\\\\23050\\\\Desktop\\\\Python\\\\3.10.11\\\\python.exe\" rag_deepseek_v4.py)",
+      "Bash('C:\\\\Users\\\\23050\\\\Desktop\\\\Python\\\\3.10.11\\\\python.exe' -c ' *)",
+      "Bash(\"C:\\\\Users\\\\23050\\\\Desktop\\\\Python\\\\3.10.11\\\\python.exe\" -m pip install python-dotenv loguru tenacity streamlit)",
+      "Bash(\"C:\\\\Users\\\\23050\\\\Desktop\\\\Python\\\\3.10.11\\\\python.exe\" -m pip install python-docx)",
+      "Bash(netstat -ano)",
+      "Bash(tasklist)"
+    ]
+  }
+}
